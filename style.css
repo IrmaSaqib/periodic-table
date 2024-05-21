@@ -1,0 +1,40 @@
+#heading {
+    /*heading text decoration */
+    color: rgb(37, 34, 34);
+    text-align: center;
+    text-shadow: 1px 1px greenyellow;
+    font-style: oblique;
+    font-size: 1.5em;
+    /*heading box decoration */
+    width: 50%;
+    height: 50px;
+    background-color: green;
+    border: 2px solid greenyellow;
+    margin-left: 25%;
+    padding-top: 1em;
+    border-radius: 15px;
+}
+.table{
+    border: 1px solid rgb(40, 39, 39);
+    background-color: greenyellow;
+    width: 90%;
+    margin: 5%;
+    margin-top: 1px;
+}
+.yellow{
+background-color: yellow;
+text-align: center
+}
+.empty{
+    background-color: aqua;
+}
+.outerTable{
+    /* text-align: center; */
+    font-size: 0.6em;
+    margin-left: 5%;
+    border: 1px solid black;
+}
+.outertd{
+    empty-cells: hide;
+    text-align: center;
+}
